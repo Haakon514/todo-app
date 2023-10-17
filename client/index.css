@@ -1,0 +1,77 @@
+body{
+    background-color: white;
+    margin: 0;
+}
+
+
+.App{
+    height: 100vh;
+    align-items: center;
+    background-color: darkgray;
+    padding: 30px;
+    text-align: center;
+}
+
+.main{
+    height: auto;
+    margin: 20px;
+    background-color: grey;
+    border: solid black;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.todoDataContainer {
+    margin-top: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    color: black;
+    border: solid black;
+    height: auto;
+
+}
+
+.todoData{
+    font-family: "Arial";
+    height: auto;
+    margin: 20px;
+    background-color: grey;
+    padding: 30px;
+    position: relative;
+}
+
+.btn-add-todo{
+    color: darkblue;
+    margin-left: 5px;
+    border: solid darkblue 2px;
+    border-radius: 5px;
+    background-color: darkgrey;
+}
+
+.btn-add-todo:hover{
+    background-color: blue;
+}
+
+input{
+    background-color: darkgrey;
+}
+
+.btn-delete-todo{
+    color: red;
+    background-color: grey;
+    margin-left: 5px;
+    border: solid red 2px;
+    border-radius: 5px;
+}
+
+.btn-delete-todo:hover{
+    background-color: darkred;
+}
+
+
+
+
+
+
+

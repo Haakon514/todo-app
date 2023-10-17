@@ -1,0 +1,70 @@
+body {
+  background-color: #fff;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  background-color: #a9a9a9;
+  align-items: center;
+  height: 100vh;
+  padding: 30px;
+}
+
+.main {
+  background-color: gray;
+  border: solid #000;
+  border-radius: 10px;
+  height: auto;
+  margin: 20px;
+  padding: 30px;
+}
+
+.todoDataContainer {
+  color: #000;
+  border: solid #000;
+  height: auto;
+  margin-top: 40px;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 20px;
+}
+
+.todoData {
+  background-color: gray;
+  height: auto;
+  margin: 20px;
+  padding: 30px;
+  font-family: Arial;
+  position: relative;
+}
+
+.btn-add-todo {
+  color: #00008b;
+  background-color: #a9a9a9;
+  border: 2px solid #00008b;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.btn-add-todo:hover {
+  background-color: #00f;
+}
+
+input {
+  background-color: #a9a9a9;
+}
+
+.btn-delete-todo {
+  color: red;
+  background-color: gray;
+  border: 2px solid red;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.btn-delete-todo:hover {
+  background-color: #8b0000;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

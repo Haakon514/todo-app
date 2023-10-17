@@ -1,0 +1,7 @@
+/.idea
+node_modules
+client/.cache
+client/.parcel-cache
+client/package-lock.json
+server/package-lock.json
+Frontend_practice_Movie_app.iml
