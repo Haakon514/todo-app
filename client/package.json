@@ -2,7 +2,8 @@
   "name": "frontend_practice_movie_app",
   "version": "1.0.0",
   "scripts": {
-    "dev": "parcel watch index.html"
+    "dev": "parcel watch index.html",
+    "build": "build index.html"
   },
   "keywords": [],
   "author": "",
