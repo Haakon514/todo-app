@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57634393-8a13-40ea-9e89-8ce552bd12a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend_practice_Movie_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/TodoApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/index.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="57634393-8a13-40ea-9e89-8ce552bd12a1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +44,17 @@
       <recent name="C:\Users\haako\Downloads\Frontend_practice_Movie_app\client" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.dev (1)">
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/client/package.json" />
       <command value="run" />
@@ -67,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev (1)" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -81,7 +82,7 @@
       <updated>1696944296799</updated>
       <workItem from="1696944297930" duration="8081000" />
       <workItem from="1697017370893" duration="4040000" />
-      <workItem from="1697028175201" duration="21789000" />
+      <workItem from="1697028175201" duration="24992000" />
     </task>
     <servers />
   </component>
