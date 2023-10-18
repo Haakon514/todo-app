@@ -1,0 +1,1304 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '--include=dev'
+1 verbose cli ]
+2 info using npm@2.15.12
+3 info using node@v18.17.1
+4 verbose readDependencies loading dependencies from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\package.json
+5 warn package.json frontend_practice_movie_app@1.0.0 No description
+6 warn package.json frontend_practice_movie_app@1.0.0 No repository field.
+7 warn package.json frontend_practice_movie_app@1.0.0 No README data
+8 verbose install where, deps [
+8 verbose install   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client',
+8 verbose install   [ 'react', 'react-dom', 'react-router-dom', 'parcel' ]
+8 verbose install ]
+9 verbose install where, peers [
+9 verbose install   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client',
+9 verbose install   []
+9 verbose install ]
+10 verbose installManyTop reading for lifecycle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\package.json
+11 info preinstall frontend_practice_movie_app@1.0.0
+12 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\abortcontroller-polyfill\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\ansi-styles\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\argparse\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\base-x\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\boolbase\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\braces\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\browserslist\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\callsites\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\caniuse-lite\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\chalk\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\chrome-trace-event\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\clone\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\color-convert\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\color-name\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\commander\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\cosmiconfig\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-tree\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-what\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\csso\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\detect-libc\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dom-serializer\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domelementtype\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domhandler\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domutils\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dotenv\package.json
+38 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dotenv-expand\package.json
+39 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\electron-to-chromium\package.json
+40 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\entities\package.json
+41 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\error-ex\package.json
+42 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\escalade\package.json
+43 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\escape-string-regexp\package.json
+44 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\fill-range\package.json
+45 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\get-port\package.json
+46 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\globals\package.json
+47 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\has-flag\package.json
+48 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\htmlnano\package.json
+49 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\htmlparser2\package.json
+50 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\import-fresh\package.json
+51 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-arrayish\package.json
+52 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-extglob\package.json
+53 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-glob\package.json
+54 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-json\package.json
+55 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-number\package.json
+56 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\js-tokens\package.json
+57 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\js-yaml\package.json
+58 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\json-parse-even-better-errors\package.json
+59 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\json5\package.json
+60 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lightningcss\package.json
+61 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lightningcss-win32-x64-msvc\package.json
+62 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lines-and-columns\package.json
+63 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lmdb\package.json
+64 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\loose-envify\package.json
+65 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lru-cache\package.json
+66 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\mdn-data\package.json
+67 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\micromatch\package.json
+68 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\msgpackr\package.json
+69 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\msgpackr-extract\package.json
+70 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\node-addon-api\package.json
+71 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\node-gyp-build-optional-packages\package.json
+72 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\node-releases\package.json
+73 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\nth-check\package.json
+74 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\nullthrows\package.json
+75 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\ordered-binary\package.json
+76 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\parcel\package.json
+77 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\parent-module\package.json
+78 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\parse-json\package.json
+79 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\path-type\package.json
+80 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\picocolors\package.json
+81 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\picomatch\package.json
+82 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\postcss-value-parser\package.json
+83 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\posthtml\package.json
+84 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\posthtml-parser\package.json
+85 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\posthtml-render\package.json
+86 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react\package.json
+87 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-dom\package.json
+88 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-error-overlay\package.json
+89 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-refresh\package.json
+90 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-router\package.json
+91 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-router-dom\package.json
+92 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\regenerator-runtime\package.json
+93 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\resolve-from\package.json
+94 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\safe-buffer\package.json
+95 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\scheduler\package.json
+96 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\semver\package.json
+97 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\source-map\package.json
+98 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\source-map-js\package.json
+99 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\srcset\package.json
+100 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\stable\package.json
+101 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\supports-color\package.json
+102 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\svgo\package.json
+103 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\term-size\package.json
+104 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\timsort\package.json
+105 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\to-regex-range\package.json
+106 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\tslib\package.json
+107 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\type-fest\package.json
+108 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\update-browserslist-db\package.json
+109 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\utility-types\package.json
+110 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\weak-lru-cache\package.json
+111 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\xxhash-wasm\package.json
+112 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\yallist\package.json
+113 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@mischnic\json-sourcemap\package.json
+114 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@lezer\common\package.json
+115 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@lezer\lr\package.json
+116 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@babel\code-frame\package.json
+117 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@babel\helper-validator-identifier\package.json
+118 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@babel\highlight\package.json
+119 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@lmdb\lmdb-win32-x64\package.json
+120 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json
+121 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@remix-run\router\package.json
+122 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@trysound\sax\package.json
+123 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\core\package.json
+124 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\core-win32-x64-msvc\package.json
+125 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\counter\package.json
+126 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\helpers\package.json
+127 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\types\package.json
+128 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\bundler-default\package.json
+129 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\cache\package.json
+130 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\codeframe\package.json
+131 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\compressor-raw\package.json
+132 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\config-default\package.json
+133 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\core\package.json
+134 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\diagnostic\package.json
+135 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\events\package.json
+136 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\fs\package.json
+137 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\fs-search\package.json
+138 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\graph\package.json
+139 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\hash\package.json
+140 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\logger\package.json
+141 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\markdown-ansi\package.json
+142 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\namer-default\package.json
+143 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\node-resolver-core\package.json
+144 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-css\package.json
+145 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-htmlnano\package.json
+146 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-image\package.json
+147 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-svgo\package.json
+148 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-swc\package.json
+149 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\package-manager\package.json
+150 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-css\package.json
+151 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-html\package.json
+152 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-js\package.json
+153 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-raw\package.json
+154 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-svg\package.json
+155 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\plugin\package.json
+156 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\profiler\package.json
+157 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\reporter-cli\package.json
+158 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\reporter-dev-server\package.json
+159 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\reporter-tracer\package.json
+160 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\resolver-default\package.json
+161 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\runtime-browser-hmr\package.json
+162 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\runtime-js\package.json
+163 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\runtime-react-refresh\package.json
+164 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\runtime-service-worker\package.json
+165 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\source-map\package.json
+166 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-babel\package.json
+167 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-css\package.json
+168 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-html\package.json
+169 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-image\package.json
+170 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-js\package.json
+171 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-json\package.json
+172 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-postcss\package.json
+173 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-posthtml\package.json
+174 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-raw\package.json
+175 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-react-refresh-wrap\package.json
+176 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-svg\package.json
+177 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\types\package.json
+178 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\utils\package.json
+179 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\watcher\package.json
+180 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\watcher-win32-x64\package.json
+181 verbose installManyTop reading scoped package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\workers\package.json
+182 info package.json @parcel/cache@2.9.3 No description
+183 info package.json @parcel/cache@2.9.3 No README data
+184 info package.json @parcel/bundler-default@2.9.3 No description
+185 info package.json @parcel/bundler-default@2.9.3 No README data
+186 info package.json @parcel/compressor-raw@2.9.3 No description
+187 info package.json @parcel/compressor-raw@2.9.3 No README data
+188 info package.json @parcel/events@2.9.3 No description
+189 info package.json @parcel/events@2.9.3 No README data
+190 info package.json @parcel/codeframe@2.9.3 No README data
+191 info package.json @swc/helpers@0.5.3 No README data
+192 info package.json @parcel/config-default@2.9.3 No description
+193 info package.json @parcel/config-default@2.9.3 No README data
+194 info package.json @parcel/diagnostic@2.9.3 No description
+195 info package.json @parcel/diagnostic@2.9.3 No README data
+196 info package.json @parcel/core@2.9.3 No description
+197 info package.json @parcel/core@2.9.3 No README data
+198 info package.json @parcel/fs-search@2.9.3 No description
+199 info package.json @parcel/fs-search@2.9.3 No README data
+200 info package.json @parcel/graph@2.9.3 No README data
+201 info package.json @parcel/logger@2.9.3 No README data
+202 info package.json @parcel/fs@2.9.3 No README data
+203 info package.json @parcel/markdown-ansi@2.9.3 No README data
+204 info package.json @parcel/namer-default@2.9.3 No description
+205 info package.json @parcel/namer-default@2.9.3 No README data
+206 info package.json @parcel/hash@2.9.3 No description
+207 info package.json @parcel/hash@2.9.3 No README data
+208 info package.json @parcel/optimizer-htmlnano@2.9.3 No description
+209 info package.json @parcel/optimizer-htmlnano@2.9.3 No README data
+210 info package.json @parcel/optimizer-css@2.9.3 No description
+211 info package.json @parcel/optimizer-css@2.9.3 No README data
+212 info package.json @parcel/node-resolver-core@3.0.3 No description
+213 info package.json @parcel/node-resolver-core@3.0.3 No README data
+214 info package.json @parcel/optimizer-image@2.9.3 No description
+215 info package.json @parcel/optimizer-image@2.9.3 No README data
+216 info package.json @parcel/optimizer-swc@2.9.3 No description
+217 info package.json @parcel/optimizer-swc@2.9.3 No README data
+218 info package.json @parcel/optimizer-svgo@2.9.3 No description
+219 info package.json @parcel/optimizer-svgo@2.9.3 No README data
+220 info package.json @parcel/packager-css@2.9.3 No description
+221 info package.json @parcel/packager-css@2.9.3 No README data
+222 info package.json @parcel/packager-raw@2.9.3 No description
+223 info package.json @parcel/packager-raw@2.9.3 No README data
+224 info package.json @parcel/package-manager@2.9.3 No README data
+225 info package.json @parcel/packager-html@2.9.3 No description
+226 info package.json @parcel/packager-html@2.9.3 No README data
+227 info package.json @parcel/profiler@2.9.3 No README data
+228 info package.json @parcel/packager-js@2.9.3 No description
+229 info package.json @parcel/packager-js@2.9.3 No README data
+230 info package.json @parcel/packager-svg@2.9.3 No description
+231 info package.json @parcel/packager-svg@2.9.3 No README data
+232 info package.json @parcel/reporter-dev-server@2.9.3 No README data
+233 info package.json @parcel/plugin@2.9.3 No description
+234 info package.json @parcel/plugin@2.9.3 No README data
+235 info package.json @parcel/resolver-default@2.9.3 No description
+236 info package.json @parcel/resolver-default@2.9.3 No README data
+237 info package.json @parcel/reporter-tracer@2.9.3 No description
+238 info package.json @parcel/reporter-tracer@2.9.3 No README data
+239 info package.json @parcel/runtime-service-worker@2.9.3 No description
+240 info package.json @parcel/runtime-service-worker@2.9.3 No README data
+241 info package.json @parcel/runtime-js@2.9.3 No description
+242 info package.json @parcel/runtime-js@2.9.3 No README data
+243 info package.json @parcel/runtime-browser-hmr@2.9.3 No description
+244 info package.json @parcel/runtime-browser-hmr@2.9.3 No README data
+245 info package.json @parcel/reporter-cli@2.9.3 No description
+246 info package.json @parcel/reporter-cli@2.9.3 No README data
+247 info package.json @parcel/transformer-css@2.9.3 No description
+248 info package.json @parcel/transformer-css@2.9.3 No README data
+249 info package.json @parcel/runtime-react-refresh@2.9.3 No description
+250 info package.json @parcel/runtime-react-refresh@2.9.3 No README data
+251 info package.json @parcel/transformer-image@2.9.3 No description
+252 info package.json @parcel/transformer-image@2.9.3 No README data
+253 info package.json @parcel/transformer-json@2.9.3 No description
+254 info package.json @parcel/transformer-json@2.9.3 No README data
+255 info package.json @parcel/transformer-js@2.9.3 No description
+256 info package.json @parcel/transformer-js@2.9.3 No README data
+257 info package.json @parcel/transformer-html@2.9.3 No description
+258 info package.json @parcel/transformer-html@2.9.3 No README data
+259 info package.json @parcel/transformer-raw@2.9.3 No description
+260 info package.json @parcel/transformer-raw@2.9.3 No README data
+261 info package.json @parcel/transformer-postcss@2.9.3 No description
+262 info package.json @parcel/transformer-postcss@2.9.3 No README data
+263 info package.json @parcel/transformer-react-refresh-wrap@2.9.3 No description
+264 info package.json @parcel/transformer-react-refresh-wrap@2.9.3 No README data
+265 info package.json @parcel/transformer-posthtml@2.9.3 No description
+266 info package.json @parcel/transformer-posthtml@2.9.3 No README data
+267 info package.json @parcel/transformer-svg@2.9.3 No description
+268 info package.json @parcel/transformer-svg@2.9.3 No README data
+269 info package.json @parcel/types@2.9.3 No description
+270 info package.json @parcel/types@2.9.3 No README data
+271 info package.json @parcel/utils@2.9.3 No README data
+272 info package.json @parcel/workers@2.9.3 No README data
+273 info package.json dotenv-expand@5.1.0 No repository field.
+274 verbose readDependencies loading dependencies from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\package.json
+275 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\abortcontroller-polyfill\package.json
+276 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\ansi-styles\package.json
+277 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\argparse\package.json
+278 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\base-x\package.json
+279 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\boolbase\package.json
+280 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\braces\package.json
+281 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\browserslist\package.json
+282 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\callsites\package.json
+283 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\caniuse-lite\package.json
+284 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\chalk\package.json
+285 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\chrome-trace-event\package.json
+286 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\clone\package.json
+287 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\color-convert\package.json
+288 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\color-name\package.json
+289 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\commander\package.json
+290 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\cosmiconfig\package.json
+291 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select\package.json
+292 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-tree\package.json
+293 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-what\package.json
+294 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\csso\package.json
+295 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\detect-libc\package.json
+296 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dom-serializer\package.json
+297 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domelementtype\package.json
+298 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domhandler\package.json
+299 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domutils\package.json
+300 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dotenv\package.json
+301 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dotenv-expand\package.json
+302 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\electron-to-chromium\package.json
+303 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\entities\package.json
+304 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\error-ex\package.json
+305 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\escalade\package.json
+306 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\escape-string-regexp\package.json
+307 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\fill-range\package.json
+308 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\get-port\package.json
+309 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\globals\package.json
+310 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\has-flag\package.json
+311 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\htmlnano\package.json
+312 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\htmlparser2\package.json
+313 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\import-fresh\package.json
+314 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-arrayish\package.json
+315 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-extglob\package.json
+316 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-glob\package.json
+317 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-json\package.json
+318 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-number\package.json
+319 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\js-tokens\package.json
+320 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\js-yaml\package.json
+321 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\json-parse-even-better-errors\package.json
+322 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\json5\package.json
+323 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lightningcss\package.json
+324 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lightningcss-win32-x64-msvc\package.json
+325 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lines-and-columns\package.json
+326 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lmdb\package.json
+327 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\loose-envify\package.json
+328 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lru-cache\package.json
+329 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\mdn-data\package.json
+330 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\micromatch\package.json
+331 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\msgpackr\package.json
+332 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\msgpackr-extract\package.json
+333 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\node-addon-api\package.json
+334 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\node-gyp-build-optional-packages\package.json
+335 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\node-releases\package.json
+336 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\nth-check\package.json
+337 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\nullthrows\package.json
+338 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\ordered-binary\package.json
+339 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\parcel\package.json
+340 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\parent-module\package.json
+341 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\parse-json\package.json
+342 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\path-type\package.json
+343 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\picocolors\package.json
+344 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\picomatch\package.json
+345 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\postcss-value-parser\package.json
+346 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\posthtml\package.json
+347 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\posthtml-parser\package.json
+348 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\posthtml-render\package.json
+349 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react\package.json
+350 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-dom\package.json
+351 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-error-overlay\package.json
+352 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-refresh\package.json
+353 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-router\package.json
+354 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\react-router-dom\package.json
+355 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\regenerator-runtime\package.json
+356 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\resolve-from\package.json
+357 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\safe-buffer\package.json
+358 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\scheduler\package.json
+359 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\semver\package.json
+360 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\source-map\package.json
+361 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\source-map-js\package.json
+362 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\srcset\package.json
+363 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\stable\package.json
+364 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\supports-color\package.json
+365 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\svgo\package.json
+366 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\term-size\package.json
+367 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\timsort\package.json
+368 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\to-regex-range\package.json
+369 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\tslib\package.json
+370 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\type-fest\package.json
+371 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\update-browserslist-db\package.json
+372 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\utility-types\package.json
+373 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\weak-lru-cache\package.json
+374 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\xxhash-wasm\package.json
+375 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\yallist\package.json
+376 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@lezer\common\package.json
+377 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@lezer\lr\package.json
+378 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@babel\code-frame\package.json
+379 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@babel\helper-validator-identifier\package.json
+380 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@babel\highlight\package.json
+381 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@lmdb\lmdb-win32-x64\package.json
+382 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@mischnic\json-sourcemap\package.json
+383 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json
+384 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\bundler-default\package.json
+385 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\cache\package.json
+386 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\codeframe\package.json
+387 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\compressor-raw\package.json
+388 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\config-default\package.json
+389 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\core\package.json
+390 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\diagnostic\package.json
+391 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\events\package.json
+392 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\fs\package.json
+393 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\fs-search\package.json
+394 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\graph\package.json
+395 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\hash\package.json
+396 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\logger\package.json
+397 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\markdown-ansi\package.json
+398 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\namer-default\package.json
+399 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\node-resolver-core\package.json
+400 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-css\package.json
+401 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-htmlnano\package.json
+402 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-image\package.json
+403 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-svgo\package.json
+404 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\optimizer-swc\package.json
+405 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\package-manager\package.json
+406 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-css\package.json
+407 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-html\package.json
+408 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-js\package.json
+409 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-raw\package.json
+410 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\packager-svg\package.json
+411 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\plugin\package.json
+412 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\profiler\package.json
+413 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\reporter-cli\package.json
+414 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\reporter-dev-server\package.json
+415 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\reporter-tracer\package.json
+416 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\resolver-default\package.json
+417 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\runtime-browser-hmr\package.json
+418 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\runtime-js\package.json
+419 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\runtime-react-refresh\package.json
+420 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\runtime-service-worker\package.json
+421 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\source-map\package.json
+422 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-babel\package.json
+423 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-css\package.json
+424 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-html\package.json
+425 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-image\package.json
+426 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-js\package.json
+427 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-json\package.json
+428 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-postcss\package.json
+429 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-posthtml\package.json
+430 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-raw\package.json
+431 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-react-refresh-wrap\package.json
+432 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\transformer-svg\package.json
+433 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\types\package.json
+434 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\utils\package.json
+435 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\watcher\package.json
+436 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\watcher-win32-x64\package.json
+437 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@parcel\workers\package.json
+438 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@remix-run\router\package.json
+439 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\core\package.json
+440 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\core-win32-x64-msvc\package.json
+441 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\counter\package.json
+442 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\helpers\package.json
+443 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@swc\types\package.json
+444 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\@trysound\sax\package.json
+445 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\browserslist\package.json
+446 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\browserslist.cmd\package.json
+447 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\browserslist.ps1\package.json
+448 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\detect-libc\package.json
+449 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\detect-libc.cmd\package.json
+450 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\detect-libc.ps1\package.json
+451 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\download-lmdb-prebuilds\package.json
+452 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\download-lmdb-prebuilds.cmd\package.json
+453 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\download-lmdb-prebuilds.ps1\package.json
+454 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\download-msgpackr-prebuilds\package.json
+455 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\download-msgpackr-prebuilds.cmd\package.json
+456 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\download-msgpackr-prebuilds.ps1\package.json
+457 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\js-yaml\package.json
+458 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\js-yaml.cmd\package.json
+459 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\js-yaml.ps1\package.json
+460 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\json5\package.json
+461 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\json5.cmd\package.json
+462 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\json5.ps1\package.json
+463 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\loose-envify\package.json
+464 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\loose-envify.cmd\package.json
+465 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\loose-envify.ps1\package.json
+466 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages\package.json
+467 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages-optional\package.json
+468 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd\package.json
+469 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1\package.json
+470 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages-test\package.json
+471 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages-test.cmd\package.json
+472 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages-test.ps1\package.json
+473 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages.cmd\package.json
+474 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\node-gyp-build-optional-packages.ps1\package.json
+475 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\parcel\package.json
+476 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\parcel.cmd\package.json
+477 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\parcel.ps1\package.json
+478 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\semver\package.json
+479 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\semver.cmd\package.json
+480 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\semver.ps1\package.json
+481 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\svgo\package.json
+482 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\svgo.cmd\package.json
+483 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\svgo.ps1\package.json
+484 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\update-browserslist-db\package.json
+485 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\update-browserslist-db.cmd\package.json
+486 verbose targetResolver reading package data from C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\.bin\update-browserslist-db.ps1\package.json
+487 verbose already installed skipping react@^18.2.0 C:\Users\haako\Downloads\Frontend_practice_Movie_app\client
+488 verbose already installed skipping react-dom@^18.2.0 C:\Users\haako\Downloads\Frontend_practice_Movie_app\client
+489 verbose already installed skipping react-router-dom@^6.16.0 C:\Users\haako\Downloads\Frontend_practice_Movie_app\client
+490 verbose already installed skipping parcel@^2.9.3 C:\Users\haako\Downloads\Frontend_practice_Movie_app\client
+491 silly install resolved []
+492 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client
+493 info linkStuff frontend_practice_movie_app@1.0.0
+494 silly linkStuff frontend_practice_movie_app@1.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app as its parent node_modules
+495 verbose linkBins frontend_practice_movie_app@1.0.0
+496 verbose linkMans frontend_practice_movie_app@1.0.0
+497 verbose rebuildBundles frontend_practice_movie_app@1.0.0
+498 verbose rebuildBundles [
+498 verbose rebuildBundles   '.bin',
+498 verbose rebuildBundles   '.package-lock.json',
+498 verbose rebuildBundles   '@babel',
+498 verbose rebuildBundles   '@lezer',
+498 verbose rebuildBundles   '@lmdb',
+498 verbose rebuildBundles   '@mischnic',
+498 verbose rebuildBundles   '@msgpackr-extract',
+498 verbose rebuildBundles   '@parcel',
+498 verbose rebuildBundles   '@remix-run',
+498 verbose rebuildBundles   '@swc',
+498 verbose rebuildBundles   '@trysound',
+498 verbose rebuildBundles   'abortcontroller-polyfill',
+498 verbose rebuildBundles   'ansi-styles',
+498 verbose rebuildBundles   'argparse',
+498 verbose rebuildBundles   'base-x',
+498 verbose rebuildBundles   'boolbase',
+498 verbose rebuildBundles   'braces',
+498 verbose rebuildBundles   'browserslist',
+498 verbose rebuildBundles   'callsites',
+498 verbose rebuildBundles   'caniuse-lite',
+498 verbose rebuildBundles   'chalk',
+498 verbose rebuildBundles   'chrome-trace-event',
+498 verbose rebuildBundles   'clone',
+498 verbose rebuildBundles   'color-convert',
+498 verbose rebuildBundles   'color-name',
+498 verbose rebuildBundles   'commander',
+498 verbose rebuildBundles   'cosmiconfig',
+498 verbose rebuildBundles   'css-select',
+498 verbose rebuildBundles   'css-tree',
+498 verbose rebuildBundles   'css-what',
+498 verbose rebuildBundles   'csso',
+498 verbose rebuildBundles   'detect-libc',
+498 verbose rebuildBundles   'dom-serializer',
+498 verbose rebuildBundles   'domelementtype',
+498 verbose rebuildBundles   'domhandler',
+498 verbose rebuildBundles   'domutils',
+498 verbose rebuildBundles   'dotenv',
+498 verbose rebuildBundles   'dotenv-expand',
+498 verbose rebuildBundles   'electron-to-chromium',
+498 verbose rebuildBundles   'entities',
+498 verbose rebuildBundles   'error-ex',
+498 verbose rebuildBundles   'escalade',
+498 verbose rebuildBundles   'escape-string-regexp',
+498 verbose rebuildBundles   'fill-range',
+498 verbose rebuildBundles   'get-port',
+498 verbose rebuildBundles   'globals',
+498 verbose rebuildBundles   'has-flag',
+498 verbose rebuildBundles   'htmlnano',
+498 verbose rebuildBundles   'htmlparser2',
+498 verbose rebuildBundles   'import-fresh',
+498 verbose rebuildBundles   'is-arrayish',
+498 verbose rebuildBundles   'is-extglob',
+498 verbose rebuildBundles   'is-glob',
+498 verbose rebuildBundles   'is-json',
+498 verbose rebuildBundles   'is-number',
+498 verbose rebuildBundles   'js-tokens',
+498 verbose rebuildBundles   'js-yaml',
+498 verbose rebuildBundles   'json-parse-even-better-errors',
+498 verbose rebuildBundles   'json5',
+498 verbose rebuildBundles   'lightningcss',
+498 verbose rebuildBundles   'lightningcss-win32-x64-msvc',
+498 verbose rebuildBundles   'lines-and-columns',
+498 verbose rebuildBundles   'lmdb',
+498 verbose rebuildBundles   'loose-envify',
+498 verbose rebuildBundles   'lru-cache',
+498 verbose rebuildBundles   'mdn-data',
+498 verbose rebuildBundles   'micromatch',
+498 verbose rebuildBundles   'msgpackr',
+498 verbose rebuildBundles   'msgpackr-extract',
+498 verbose rebuildBundles   'node-addon-api',
+498 verbose rebuildBundles   'node-gyp-build-optional-packages',
+498 verbose rebuildBundles   'node-releases',
+498 verbose rebuildBundles   'nth-check',
+498 verbose rebuildBundles   'nullthrows',
+498 verbose rebuildBundles   'ordered-binary',
+498 verbose rebuildBundles   'parcel',
+498 verbose rebuildBundles   'parent-module',
+498 verbose rebuildBundles   'parse-json',
+498 verbose rebuildBundles   'path-type',
+498 verbose rebuildBundles   'picocolors',
+498 verbose rebuildBundles   'picomatch',
+498 verbose rebuildBundles   'postcss-value-parser',
+498 verbose rebuildBundles   'posthtml',
+498 verbose rebuildBundles   'posthtml-parser',
+498 verbose rebuildBundles   'posthtml-render',
+498 verbose rebuildBundles   'react',
+498 verbose rebuildBundles   'react-dom',
+498 verbose rebuildBundles   'react-error-overlay',
+498 verbose rebuildBundles   'react-refresh',
+498 verbose rebuildBundles   'react-router',
+498 verbose rebuildBundles   'react-router-dom',
+498 verbose rebuildBundles   'regenerator-runtime',
+498 verbose rebuildBundles   'resolve-from',
+498 verbose rebuildBundles   'safe-buffer',
+498 verbose rebuildBundles   'scheduler',
+498 verbose rebuildBundles   'semver',
+498 verbose rebuildBundles   'source-map',
+498 verbose rebuildBundles   'source-map-js',
+498 verbose rebuildBundles   'srcset',
+498 verbose rebuildBundles   'stable',
+498 verbose rebuildBundles   ... 12 more items
+498 verbose rebuildBundles ]
+499 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\abortcontroller-polyfill
+500 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\abortcontroller-polyfill
+501 info preinstall abortcontroller-polyfill@1.7.5
+502 info linkStuff abortcontroller-polyfill@1.7.5
+503 silly linkStuff abortcontroller-polyfill@1.7.5 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+504 verbose linkBins abortcontroller-polyfill@1.7.5
+505 verbose linkMans abortcontroller-polyfill@1.7.5
+506 verbose rebuildBundles abortcontroller-polyfill@1.7.5
+507 info install abortcontroller-polyfill@1.7.5
+508 info postinstall abortcontroller-polyfill@1.7.5
+509 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\ansi-styles
+510 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\ansi-styles
+511 info preinstall ansi-styles@4.3.0
+512 info linkStuff ansi-styles@4.3.0
+513 silly linkStuff ansi-styles@4.3.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+514 verbose linkBins ansi-styles@4.3.0
+515 verbose linkMans ansi-styles@4.3.0
+516 verbose rebuildBundles ansi-styles@4.3.0
+517 info install ansi-styles@4.3.0
+518 info postinstall ansi-styles@4.3.0
+519 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\argparse
+520 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\argparse
+521 info preinstall argparse@2.0.1
+522 info linkStuff argparse@2.0.1
+523 silly linkStuff argparse@2.0.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+524 verbose linkBins argparse@2.0.1
+525 verbose linkMans argparse@2.0.1
+526 verbose rebuildBundles argparse@2.0.1
+527 info install argparse@2.0.1
+528 info postinstall argparse@2.0.1
+529 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\base-x
+530 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\base-x
+531 info preinstall base-x@3.0.9
+532 info linkStuff base-x@3.0.9
+533 silly linkStuff base-x@3.0.9 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+534 verbose linkBins base-x@3.0.9
+535 verbose linkMans base-x@3.0.9
+536 verbose rebuildBundles base-x@3.0.9
+537 info install base-x@3.0.9
+538 info postinstall base-x@3.0.9
+539 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\boolbase
+540 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\boolbase
+541 info preinstall boolbase@1.0.0
+542 info linkStuff boolbase@1.0.0
+543 silly linkStuff boolbase@1.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+544 verbose linkBins boolbase@1.0.0
+545 verbose linkMans boolbase@1.0.0
+546 verbose rebuildBundles boolbase@1.0.0
+547 info install boolbase@1.0.0
+548 info postinstall boolbase@1.0.0
+549 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\braces
+550 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\braces
+551 info preinstall braces@3.0.2
+552 info linkStuff braces@3.0.2
+553 silly linkStuff braces@3.0.2 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+554 verbose linkBins braces@3.0.2
+555 verbose linkMans braces@3.0.2
+556 verbose rebuildBundles braces@3.0.2
+557 info install braces@3.0.2
+558 info postinstall braces@3.0.2
+559 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\browserslist
+560 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\browserslist
+561 info preinstall browserslist@4.22.1
+562 info linkStuff browserslist@4.22.1
+563 silly linkStuff browserslist@4.22.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+564 verbose linkBins browserslist@4.22.1
+565 verbose link bins [
+565 verbose link bins   { browserslist: 'cli.js' },
+565 verbose link bins   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client\\node_modules\\.bin',
+565 verbose link bins   false
+565 verbose link bins ]
+566 verbose linkMans browserslist@4.22.1
+567 verbose rebuildBundles browserslist@4.22.1
+568 info install browserslist@4.22.1
+569 info postinstall browserslist@4.22.1
+570 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\callsites
+571 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\callsites
+572 info preinstall callsites@3.1.0
+573 info linkStuff callsites@3.1.0
+574 silly linkStuff callsites@3.1.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+575 verbose linkBins callsites@3.1.0
+576 verbose linkMans callsites@3.1.0
+577 verbose rebuildBundles callsites@3.1.0
+578 info install callsites@3.1.0
+579 info postinstall callsites@3.1.0
+580 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\caniuse-lite
+581 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\caniuse-lite
+582 info preinstall caniuse-lite@1.0.30001547
+583 info linkStuff caniuse-lite@1.0.30001547
+584 silly linkStuff caniuse-lite@1.0.30001547 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+585 verbose linkBins caniuse-lite@1.0.30001547
+586 verbose linkMans caniuse-lite@1.0.30001547
+587 verbose rebuildBundles caniuse-lite@1.0.30001547
+588 info install caniuse-lite@1.0.30001547
+589 info postinstall caniuse-lite@1.0.30001547
+590 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\chalk
+591 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\chalk
+592 info preinstall chalk@4.1.2
+593 info linkStuff chalk@4.1.2
+594 silly linkStuff chalk@4.1.2 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+595 verbose linkBins chalk@4.1.2
+596 verbose linkMans chalk@4.1.2
+597 verbose rebuildBundles chalk@4.1.2
+598 info install chalk@4.1.2
+599 info postinstall chalk@4.1.2
+600 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\chrome-trace-event
+601 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\chrome-trace-event
+602 info preinstall chrome-trace-event@1.0.3
+603 info linkStuff chrome-trace-event@1.0.3
+604 silly linkStuff chrome-trace-event@1.0.3 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+605 verbose linkBins chrome-trace-event@1.0.3
+606 verbose linkMans chrome-trace-event@1.0.3
+607 verbose rebuildBundles chrome-trace-event@1.0.3
+608 info install chrome-trace-event@1.0.3
+609 info postinstall chrome-trace-event@1.0.3
+610 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\clone
+611 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\clone
+612 info preinstall clone@2.1.2
+613 info linkStuff clone@2.1.2
+614 silly linkStuff clone@2.1.2 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+615 verbose linkBins clone@2.1.2
+616 verbose linkMans clone@2.1.2
+617 verbose rebuildBundles clone@2.1.2
+618 info install clone@2.1.2
+619 info postinstall clone@2.1.2
+620 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\color-convert
+621 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\color-convert
+622 info preinstall color-convert@2.0.1
+623 info linkStuff color-convert@2.0.1
+624 silly linkStuff color-convert@2.0.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+625 verbose linkBins color-convert@2.0.1
+626 verbose linkMans color-convert@2.0.1
+627 verbose rebuildBundles color-convert@2.0.1
+628 info install color-convert@2.0.1
+629 info postinstall color-convert@2.0.1
+630 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\color-name
+631 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\color-name
+632 info preinstall color-name@1.1.4
+633 info linkStuff color-name@1.1.4
+634 silly linkStuff color-name@1.1.4 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+635 verbose linkBins color-name@1.1.4
+636 verbose linkMans color-name@1.1.4
+637 verbose rebuildBundles color-name@1.1.4
+638 info install color-name@1.1.4
+639 info postinstall color-name@1.1.4
+640 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\commander
+641 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\commander
+642 info preinstall commander@7.2.0
+643 info linkStuff commander@7.2.0
+644 silly linkStuff commander@7.2.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+645 verbose linkBins commander@7.2.0
+646 verbose linkMans commander@7.2.0
+647 verbose rebuildBundles commander@7.2.0
+648 info install commander@7.2.0
+649 info postinstall commander@7.2.0
+650 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\cosmiconfig
+651 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\cosmiconfig
+652 info preinstall cosmiconfig@8.3.6
+653 info linkStuff cosmiconfig@8.3.6
+654 silly linkStuff cosmiconfig@8.3.6 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+655 verbose linkBins cosmiconfig@8.3.6
+656 verbose linkMans cosmiconfig@8.3.6
+657 verbose rebuildBundles cosmiconfig@8.3.6
+658 info install cosmiconfig@8.3.6
+659 info postinstall cosmiconfig@8.3.6
+660 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select
+661 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select
+662 info preinstall css-select@5.1.0
+663 info linkStuff css-select@5.1.0
+664 silly linkStuff css-select@5.1.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+665 verbose linkBins css-select@5.1.0
+666 verbose linkMans css-select@5.1.0
+667 verbose rebuildBundles css-select@5.1.0
+668 verbose rebuildBundles [ 'dom-serializer', 'domhandler', 'domutils', 'entities' ]
+669 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select\node_modules\dom-serializer
+670 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select\node_modules\dom-serializer
+671 info preinstall dom-serializer@2.0.0
+672 info linkStuff dom-serializer@2.0.0
+673 silly linkStuff dom-serializer@2.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select\node_modules as its parent node_modules
+674 verbose linkBins dom-serializer@2.0.0
+675 verbose linkMans dom-serializer@2.0.0
+676 verbose rebuildBundles dom-serializer@2.0.0
+677 info install dom-serializer@2.0.0
+678 info postinstall dom-serializer@2.0.0
+679 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select\node_modules\entities
+680 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select\node_modules\entities
+681 info preinstall entities@4.5.0
+682 info linkStuff entities@4.5.0
+683 silly linkStuff entities@4.5.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-select\node_modules as its parent node_modules
+684 verbose linkBins entities@4.5.0
+685 verbose linkMans entities@4.5.0
+686 verbose rebuildBundles entities@4.5.0
+687 info install entities@4.5.0
+688 info postinstall entities@4.5.0
+689 info install css-select@5.1.0
+690 info postinstall css-select@5.1.0
+691 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-tree
+692 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-tree
+693 info preinstall css-tree@2.3.1
+694 info linkStuff css-tree@2.3.1
+695 silly linkStuff css-tree@2.3.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+696 verbose linkBins css-tree@2.3.1
+697 verbose linkMans css-tree@2.3.1
+698 verbose rebuildBundles css-tree@2.3.1
+699 info install css-tree@2.3.1
+700 info postinstall css-tree@2.3.1
+701 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-what
+702 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\css-what
+703 info preinstall css-what@6.1.0
+704 info linkStuff css-what@6.1.0
+705 silly linkStuff css-what@6.1.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+706 verbose linkBins css-what@6.1.0
+707 verbose linkMans css-what@6.1.0
+708 verbose rebuildBundles css-what@6.1.0
+709 info install css-what@6.1.0
+710 info postinstall css-what@6.1.0
+711 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\csso
+712 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\csso
+713 info preinstall csso@5.0.5
+714 info linkStuff csso@5.0.5
+715 silly linkStuff csso@5.0.5 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+716 verbose linkBins csso@5.0.5
+717 verbose linkMans csso@5.0.5
+718 verbose rebuildBundles csso@5.0.5
+719 verbose rebuildBundles [ 'css-tree', 'mdn-data' ]
+720 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\csso\node_modules\mdn-data
+721 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\csso\node_modules\mdn-data
+722 info preinstall mdn-data@2.0.28
+723 info linkStuff mdn-data@2.0.28
+724 silly linkStuff mdn-data@2.0.28 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\csso\node_modules as its parent node_modules
+725 verbose linkBins mdn-data@2.0.28
+726 verbose linkMans mdn-data@2.0.28
+727 verbose rebuildBundles mdn-data@2.0.28
+728 info install mdn-data@2.0.28
+729 info postinstall mdn-data@2.0.28
+730 info install csso@5.0.5
+731 info postinstall csso@5.0.5
+732 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\detect-libc
+733 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\detect-libc
+734 info preinstall detect-libc@1.0.3
+735 info linkStuff detect-libc@1.0.3
+736 silly linkStuff detect-libc@1.0.3 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+737 verbose linkBins detect-libc@1.0.3
+738 verbose link bins [
+738 verbose link bins   { 'detect-libc': './bin/detect-libc.js' },
+738 verbose link bins   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client\\node_modules\\.bin',
+738 verbose link bins   false
+738 verbose link bins ]
+739 verbose linkMans detect-libc@1.0.3
+740 verbose rebuildBundles detect-libc@1.0.3
+741 info install detect-libc@1.0.3
+742 info postinstall detect-libc@1.0.3
+743 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dom-serializer
+744 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dom-serializer
+745 info preinstall dom-serializer@1.4.1
+746 info linkStuff dom-serializer@1.4.1
+747 silly linkStuff dom-serializer@1.4.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+748 verbose linkBins dom-serializer@1.4.1
+749 verbose linkMans dom-serializer@1.4.1
+750 verbose rebuildBundles dom-serializer@1.4.1
+751 verbose rebuildBundles [ 'entities' ]
+752 info install dom-serializer@1.4.1
+753 info postinstall dom-serializer@1.4.1
+754 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domelementtype
+755 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domelementtype
+756 info preinstall domelementtype@2.3.0
+757 info linkStuff domelementtype@2.3.0
+758 silly linkStuff domelementtype@2.3.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+759 verbose linkBins domelementtype@2.3.0
+760 verbose linkMans domelementtype@2.3.0
+761 verbose rebuildBundles domelementtype@2.3.0
+762 info install domelementtype@2.3.0
+763 info postinstall domelementtype@2.3.0
+764 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domhandler
+765 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domhandler
+766 info preinstall domhandler@4.3.1
+767 info linkStuff domhandler@4.3.1
+768 silly linkStuff domhandler@4.3.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+769 verbose linkBins domhandler@4.3.1
+770 verbose linkMans domhandler@4.3.1
+771 verbose rebuildBundles domhandler@4.3.1
+772 info install domhandler@4.3.1
+773 info postinstall domhandler@4.3.1
+774 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domutils
+775 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\domutils
+776 info preinstall domutils@2.8.0
+777 info linkStuff domutils@2.8.0
+778 silly linkStuff domutils@2.8.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+779 verbose linkBins domutils@2.8.0
+780 verbose linkMans domutils@2.8.0
+781 verbose rebuildBundles domutils@2.8.0
+782 info install domutils@2.8.0
+783 info postinstall domutils@2.8.0
+784 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dotenv
+785 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dotenv
+786 info preinstall dotenv@7.0.0
+787 info linkStuff dotenv@7.0.0
+788 silly linkStuff dotenv@7.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+789 verbose linkBins dotenv@7.0.0
+790 verbose linkMans dotenv@7.0.0
+791 verbose rebuildBundles dotenv@7.0.0
+792 info install dotenv@7.0.0
+793 info postinstall dotenv@7.0.0
+794 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dotenv-expand
+795 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\dotenv-expand
+796 info preinstall dotenv-expand@5.1.0
+797 info linkStuff dotenv-expand@5.1.0
+798 silly linkStuff dotenv-expand@5.1.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+799 verbose linkBins dotenv-expand@5.1.0
+800 verbose linkMans dotenv-expand@5.1.0
+801 verbose rebuildBundles dotenv-expand@5.1.0
+802 info install dotenv-expand@5.1.0
+803 info postinstall dotenv-expand@5.1.0
+804 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\electron-to-chromium
+805 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\electron-to-chromium
+806 info preinstall electron-to-chromium@1.4.548
+807 info linkStuff electron-to-chromium@1.4.548
+808 silly linkStuff electron-to-chromium@1.4.548 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+809 verbose linkBins electron-to-chromium@1.4.548
+810 verbose linkMans electron-to-chromium@1.4.548
+811 verbose rebuildBundles electron-to-chromium@1.4.548
+812 info install electron-to-chromium@1.4.548
+813 info postinstall electron-to-chromium@1.4.548
+814 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\entities
+815 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\entities
+816 info preinstall entities@3.0.1
+817 info linkStuff entities@3.0.1
+818 silly linkStuff entities@3.0.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+819 verbose linkBins entities@3.0.1
+820 verbose linkMans entities@3.0.1
+821 verbose rebuildBundles entities@3.0.1
+822 info install entities@3.0.1
+823 info postinstall entities@3.0.1
+824 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\error-ex
+825 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\error-ex
+826 info preinstall error-ex@1.3.2
+827 info linkStuff error-ex@1.3.2
+828 silly linkStuff error-ex@1.3.2 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+829 verbose linkBins error-ex@1.3.2
+830 verbose linkMans error-ex@1.3.2
+831 verbose rebuildBundles error-ex@1.3.2
+832 info install error-ex@1.3.2
+833 info postinstall error-ex@1.3.2
+834 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\escalade
+835 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\escalade
+836 info preinstall escalade@3.1.1
+837 info linkStuff escalade@3.1.1
+838 silly linkStuff escalade@3.1.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+839 verbose linkBins escalade@3.1.1
+840 verbose linkMans escalade@3.1.1
+841 verbose rebuildBundles escalade@3.1.1
+842 info install escalade@3.1.1
+843 info postinstall escalade@3.1.1
+844 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\escape-string-regexp
+845 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\escape-string-regexp
+846 info preinstall escape-string-regexp@1.0.5
+847 info linkStuff escape-string-regexp@1.0.5
+848 silly linkStuff escape-string-regexp@1.0.5 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+849 verbose linkBins escape-string-regexp@1.0.5
+850 verbose linkMans escape-string-regexp@1.0.5
+851 verbose rebuildBundles escape-string-regexp@1.0.5
+852 info install escape-string-regexp@1.0.5
+853 info postinstall escape-string-regexp@1.0.5
+854 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\fill-range
+855 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\fill-range
+856 info preinstall fill-range@7.0.1
+857 info linkStuff fill-range@7.0.1
+858 silly linkStuff fill-range@7.0.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+859 verbose linkBins fill-range@7.0.1
+860 verbose linkMans fill-range@7.0.1
+861 verbose rebuildBundles fill-range@7.0.1
+862 info install fill-range@7.0.1
+863 info postinstall fill-range@7.0.1
+864 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\get-port
+865 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\get-port
+866 info preinstall get-port@4.2.0
+867 info linkStuff get-port@4.2.0
+868 silly linkStuff get-port@4.2.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+869 verbose linkBins get-port@4.2.0
+870 verbose linkMans get-port@4.2.0
+871 verbose rebuildBundles get-port@4.2.0
+872 info install get-port@4.2.0
+873 info postinstall get-port@4.2.0
+874 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\globals
+875 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\globals
+876 info preinstall globals@13.23.0
+877 info linkStuff globals@13.23.0
+878 silly linkStuff globals@13.23.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+879 verbose linkBins globals@13.23.0
+880 verbose linkMans globals@13.23.0
+881 verbose rebuildBundles globals@13.23.0
+882 info install globals@13.23.0
+883 info postinstall globals@13.23.0
+884 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\has-flag
+885 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\has-flag
+886 info preinstall has-flag@4.0.0
+887 info linkStuff has-flag@4.0.0
+888 silly linkStuff has-flag@4.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+889 verbose linkBins has-flag@4.0.0
+890 verbose linkMans has-flag@4.0.0
+891 verbose rebuildBundles has-flag@4.0.0
+892 info install has-flag@4.0.0
+893 info postinstall has-flag@4.0.0
+894 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\htmlnano
+895 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\htmlnano
+896 info preinstall htmlnano@2.0.4
+897 info linkStuff htmlnano@2.0.4
+898 silly linkStuff htmlnano@2.0.4 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+899 verbose linkBins htmlnano@2.0.4
+900 verbose linkMans htmlnano@2.0.4
+901 verbose rebuildBundles htmlnano@2.0.4
+902 info install htmlnano@2.0.4
+903 info postinstall htmlnano@2.0.4
+904 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\htmlparser2
+905 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\htmlparser2
+906 info preinstall htmlparser2@7.2.0
+907 info linkStuff htmlparser2@7.2.0
+908 silly linkStuff htmlparser2@7.2.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+909 verbose linkBins htmlparser2@7.2.0
+910 verbose linkMans htmlparser2@7.2.0
+911 verbose rebuildBundles htmlparser2@7.2.0
+912 info install htmlparser2@7.2.0
+913 info postinstall htmlparser2@7.2.0
+914 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\import-fresh
+915 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\import-fresh
+916 info preinstall import-fresh@3.3.0
+917 info linkStuff import-fresh@3.3.0
+918 silly linkStuff import-fresh@3.3.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+919 verbose linkBins import-fresh@3.3.0
+920 verbose linkMans import-fresh@3.3.0
+921 verbose rebuildBundles import-fresh@3.3.0
+922 info install import-fresh@3.3.0
+923 info postinstall import-fresh@3.3.0
+924 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-arrayish
+925 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-arrayish
+926 info preinstall is-arrayish@0.2.1
+927 info linkStuff is-arrayish@0.2.1
+928 silly linkStuff is-arrayish@0.2.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+929 verbose linkBins is-arrayish@0.2.1
+930 verbose linkMans is-arrayish@0.2.1
+931 verbose rebuildBundles is-arrayish@0.2.1
+932 info install is-arrayish@0.2.1
+933 info postinstall is-arrayish@0.2.1
+934 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-extglob
+935 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-extglob
+936 info preinstall is-extglob@2.1.1
+937 info linkStuff is-extglob@2.1.1
+938 silly linkStuff is-extglob@2.1.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+939 verbose linkBins is-extglob@2.1.1
+940 verbose linkMans is-extglob@2.1.1
+941 verbose rebuildBundles is-extglob@2.1.1
+942 info install is-extglob@2.1.1
+943 info postinstall is-extglob@2.1.1
+944 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-glob
+945 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-glob
+946 info preinstall is-glob@4.0.3
+947 info linkStuff is-glob@4.0.3
+948 silly linkStuff is-glob@4.0.3 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+949 verbose linkBins is-glob@4.0.3
+950 verbose linkMans is-glob@4.0.3
+951 verbose rebuildBundles is-glob@4.0.3
+952 info install is-glob@4.0.3
+953 info postinstall is-glob@4.0.3
+954 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-json
+955 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-json
+956 info preinstall is-json@2.0.1
+957 info linkStuff is-json@2.0.1
+958 silly linkStuff is-json@2.0.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+959 verbose linkBins is-json@2.0.1
+960 verbose linkMans is-json@2.0.1
+961 verbose rebuildBundles is-json@2.0.1
+962 info install is-json@2.0.1
+963 info postinstall is-json@2.0.1
+964 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-number
+965 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\is-number
+966 info preinstall is-number@7.0.0
+967 info linkStuff is-number@7.0.0
+968 silly linkStuff is-number@7.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+969 verbose linkBins is-number@7.0.0
+970 verbose linkMans is-number@7.0.0
+971 verbose rebuildBundles is-number@7.0.0
+972 info install is-number@7.0.0
+973 info postinstall is-number@7.0.0
+974 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\js-tokens
+975 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\js-tokens
+976 info preinstall js-tokens@4.0.0
+977 info linkStuff js-tokens@4.0.0
+978 silly linkStuff js-tokens@4.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+979 verbose linkBins js-tokens@4.0.0
+980 verbose linkMans js-tokens@4.0.0
+981 verbose rebuildBundles js-tokens@4.0.0
+982 info install js-tokens@4.0.0
+983 info postinstall js-tokens@4.0.0
+984 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\js-yaml
+985 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\js-yaml
+986 info preinstall js-yaml@4.1.0
+987 info linkStuff js-yaml@4.1.0
+988 silly linkStuff js-yaml@4.1.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+989 verbose linkBins js-yaml@4.1.0
+990 verbose link bins [
+990 verbose link bins   { 'js-yaml': 'bin/js-yaml.js' },
+990 verbose link bins   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client\\node_modules\\.bin',
+990 verbose link bins   false
+990 verbose link bins ]
+991 verbose linkMans js-yaml@4.1.0
+992 verbose rebuildBundles js-yaml@4.1.0
+993 info install js-yaml@4.1.0
+994 info postinstall js-yaml@4.1.0
+995 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\json-parse-even-better-errors
+996 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\json-parse-even-better-errors
+997 info preinstall json-parse-even-better-errors@2.3.1
+998 info linkStuff json-parse-even-better-errors@2.3.1
+999 silly linkStuff json-parse-even-better-errors@2.3.1 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1000 verbose linkBins json-parse-even-better-errors@2.3.1
+1001 verbose linkMans json-parse-even-better-errors@2.3.1
+1002 verbose rebuildBundles json-parse-even-better-errors@2.3.1
+1003 info install json-parse-even-better-errors@2.3.1
+1004 info postinstall json-parse-even-better-errors@2.3.1
+1005 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\json5
+1006 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\json5
+1007 info preinstall json5@2.2.3
+1008 info linkStuff json5@2.2.3
+1009 silly linkStuff json5@2.2.3 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1010 verbose linkBins json5@2.2.3
+1011 verbose link bins [
+1011 verbose link bins   { json5: 'lib/cli.js' },
+1011 verbose link bins   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client\\node_modules\\.bin',
+1011 verbose link bins   false
+1011 verbose link bins ]
+1012 verbose linkMans json5@2.2.3
+1013 verbose rebuildBundles json5@2.2.3
+1014 info install json5@2.2.3
+1015 info postinstall json5@2.2.3
+1016 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lightningcss
+1017 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lightningcss
+1018 info preinstall lightningcss@1.22.0
+1019 info linkStuff lightningcss@1.22.0
+1020 silly linkStuff lightningcss@1.22.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1021 verbose linkBins lightningcss@1.22.0
+1022 verbose linkMans lightningcss@1.22.0
+1023 verbose rebuildBundles lightningcss@1.22.0
+1024 info install lightningcss@1.22.0
+1025 info postinstall lightningcss@1.22.0
+1026 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lightningcss-win32-x64-msvc
+1027 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lightningcss-win32-x64-msvc
+1028 info preinstall lightningcss-win32-x64-msvc@1.22.0
+1029 info linkStuff lightningcss-win32-x64-msvc@1.22.0
+1030 silly linkStuff lightningcss-win32-x64-msvc@1.22.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1031 verbose linkBins lightningcss-win32-x64-msvc@1.22.0
+1032 verbose linkMans lightningcss-win32-x64-msvc@1.22.0
+1033 verbose rebuildBundles lightningcss-win32-x64-msvc@1.22.0
+1034 info install lightningcss-win32-x64-msvc@1.22.0
+1035 info postinstall lightningcss-win32-x64-msvc@1.22.0
+1036 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lines-and-columns
+1037 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lines-and-columns
+1038 info preinstall lines-and-columns@1.2.4
+1039 info linkStuff lines-and-columns@1.2.4
+1040 silly linkStuff lines-and-columns@1.2.4 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1041 verbose linkBins lines-and-columns@1.2.4
+1042 verbose linkMans lines-and-columns@1.2.4
+1043 verbose rebuildBundles lines-and-columns@1.2.4
+1044 info install lines-and-columns@1.2.4
+1045 info postinstall lines-and-columns@1.2.4
+1046 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lmdb
+1047 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lmdb
+1048 info preinstall lmdb@2.7.11
+1049 info linkStuff lmdb@2.7.11
+1050 silly linkStuff lmdb@2.7.11 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1051 verbose linkBins lmdb@2.7.11
+1052 verbose link bins [
+1052 verbose link bins   { 'download-lmdb-prebuilds': './bin/download-prebuilds.js' },
+1052 verbose link bins   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client\\node_modules\\.bin',
+1052 verbose link bins   false
+1052 verbose link bins ]
+1053 verbose linkMans lmdb@2.7.11
+1054 verbose rebuildBundles lmdb@2.7.11
+1055 verbose rebuildBundles [ 'msgpackr', 'node-addon-api' ]
+1056 info install lmdb@2.7.11
+1057 verbose unsafe-perm in lifecycle true
+1058 info postinstall lmdb@2.7.11
+1059 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\loose-envify
+1060 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\loose-envify
+1061 info preinstall loose-envify@1.4.0
+1062 info linkStuff loose-envify@1.4.0
+1063 silly linkStuff loose-envify@1.4.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1064 verbose linkBins loose-envify@1.4.0
+1065 verbose link bins [
+1065 verbose link bins   { 'loose-envify': 'cli.js' },
+1065 verbose link bins   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client\\node_modules\\.bin',
+1065 verbose link bins   false
+1065 verbose link bins ]
+1066 verbose linkMans loose-envify@1.4.0
+1067 verbose rebuildBundles loose-envify@1.4.0
+1068 info install loose-envify@1.4.0
+1069 info postinstall loose-envify@1.4.0
+1070 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lru-cache
+1071 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\lru-cache
+1072 info preinstall lru-cache@6.0.0
+1073 info linkStuff lru-cache@6.0.0
+1074 silly linkStuff lru-cache@6.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1075 verbose linkBins lru-cache@6.0.0
+1076 verbose linkMans lru-cache@6.0.0
+1077 verbose rebuildBundles lru-cache@6.0.0
+1078 info install lru-cache@6.0.0
+1079 info postinstall lru-cache@6.0.0
+1080 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\mdn-data
+1081 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\mdn-data
+1082 info preinstall mdn-data@2.0.30
+1083 info linkStuff mdn-data@2.0.30
+1084 silly linkStuff mdn-data@2.0.30 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1085 verbose linkBins mdn-data@2.0.30
+1086 verbose linkMans mdn-data@2.0.30
+1087 verbose rebuildBundles mdn-data@2.0.30
+1088 info install mdn-data@2.0.30
+1089 info postinstall mdn-data@2.0.30
+1090 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\micromatch
+1091 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\micromatch
+1092 info preinstall micromatch@4.0.5
+1093 info linkStuff micromatch@4.0.5
+1094 silly linkStuff micromatch@4.0.5 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1095 verbose linkBins micromatch@4.0.5
+1096 verbose linkMans micromatch@4.0.5
+1097 verbose rebuildBundles micromatch@4.0.5
+1098 info install micromatch@4.0.5
+1099 info postinstall micromatch@4.0.5
+1100 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\msgpackr
+1101 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\msgpackr
+1102 info preinstall msgpackr@1.9.9
+1103 info linkStuff msgpackr@1.9.9
+1104 silly linkStuff msgpackr@1.9.9 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1105 verbose linkBins msgpackr@1.9.9
+1106 verbose linkMans msgpackr@1.9.9
+1107 verbose rebuildBundles msgpackr@1.9.9
+1108 info install msgpackr@1.9.9
+1109 info postinstall msgpackr@1.9.9
+1110 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\msgpackr-extract
+1111 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\msgpackr-extract
+1112 info preinstall msgpackr-extract@3.0.2
+1113 info linkStuff msgpackr-extract@3.0.2
+1114 silly linkStuff msgpackr-extract@3.0.2 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1115 verbose linkBins msgpackr-extract@3.0.2
+1116 verbose link bins [
+1116 verbose link bins   { 'download-msgpackr-prebuilds': './bin/download-prebuilds.js' },
+1116 verbose link bins   'C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\client\\node_modules\\.bin',
+1116 verbose link bins   false
+1116 verbose link bins ]
+1117 verbose linkMans msgpackr-extract@3.0.2
+1118 verbose rebuildBundles msgpackr-extract@3.0.2
+1119 verbose rebuildBundles [ '.bin', 'node-gyp-build-optional-packages' ]
+1120 info install msgpackr-extract@3.0.2
+1121 verbose unsafe-perm in lifecycle true
+1122 info postinstall msgpackr-extract@3.0.2
+1123 verbose rebuild bundle C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\node-addon-api
+1124 info build C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules\node-addon-api
+1125 info preinstall node-addon-api@7.0.0
+1126 info linkStuff node-addon-api@7.0.0
+1127 silly linkStuff node-addon-api@7.0.0 has C:\Users\haako\Downloads\Frontend_practice_Movie_app\client\node_modules as its parent node_modules
+1128 verbose linkBins node-addon-api@7.0.0
+1129 verbose linkMans node-addon-api@7.0.0
+1130 verbose rebuildBundles node-addon-api@7.0.0
+1131 info install node-addon-api@7.0.0
+1132 verbose unsafe-perm in lifecycle true
+1133 info node-addon-api@7.0.0 Failed to exec install script
+1134 verbose stack Error: node-addon-api@7.0.0 install: `node-gyp rebuild`
+1134 verbose stack Exit status 1
+1134 verbose stack     at EventEmitter.<anonymous> (C:\Users\haako\Downloads\Frontend_practice_Movie_app\node_modules\npm\lib\utils\lifecycle.js:217:16)
+1134 verbose stack     at EventEmitter.emit (node:events:514:28)
+1134 verbose stack     at ChildProcess.<anonymous> (C:\Users\haako\Downloads\Frontend_practice_Movie_app\node_modules\npm\lib\utils\spawn.js:24:14)
+1134 verbose stack     at ChildProcess.emit (node:events:514:28)
+1134 verbose stack     at maybeClose (node:internal/child_process:1091:16)
+1134 verbose stack     at ChildProcess._handle.onexit (node:internal/child_process:302:5)
+1135 verbose pkgid node-addon-api@7.0.0
+1136 verbose cwd C:\Users\haako\Downloads\Frontend_practice_Movie_app\client
+1137 error Windows_NT 10.0.22621
+1138 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\haako\\Downloads\\Frontend_practice_Movie_app\\node_modules\\npm\\bin\\npm-cli.js" "install" "--include=dev"
+1139 error node v18.17.1
+1140 error npm  v2.15.12
+1141 error code ELIFECYCLE
+1142 error node-addon-api@7.0.0 install: `node-gyp rebuild`
+1142 error Exit status 1
+1143 error Failed at the node-addon-api@7.0.0 install script 'node-gyp rebuild'.
+1143 error This is most likely a problem with the node-addon-api package,
+1143 error not with npm itself.
+1143 error Tell the author that this fails on your system:
+1143 error     node-gyp rebuild
+1143 error You can get information on how to open an issue for this project with:
+1143 error     npm bugs node-addon-api
+1143 error Or if that isn't available, you can get their info via:
+1143 error
+1143 error     npm owner ls node-addon-api
+1143 error There is likely additional logging output above.
+1144 verbose exit [ 1, true ]
