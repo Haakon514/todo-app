@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="57634393-8a13-40ea-9e89-8ce552bd12a1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/TodoApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/TodoApp.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/index.d498c491.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/dist/index.d498c491.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/dist/index.d498c491.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/client/dist/index.d498c491.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +106,7 @@
       <updated>1696944296799</updated>
       <workItem from="1696944297930" duration="8081000" />
       <workItem from="1697017370893" duration="4040000" />
-      <workItem from="1697028175201" duration="32443000" />
+      <workItem from="1697028175201" duration="33070000" />
     </task>
     <servers />
   </component>
