@@ -14,9 +14,13 @@
     "react-router-dom": "^6.16.0",
     "scheduler": "^0.23.0"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "here comes the top level scripts"
+    "test": "here comes the top level scripts",
+    "postinstall": "npm run install:client && npm run install:server",
+    "install:client": "cd client && npm install --include=dev",
+    "install:server": "cd server && npm install --include=dev",
+    "build": "npm run build:client",
+    "build:client": "cd client && npm run build"
   },
   "keywords": [],
   "author": "",
