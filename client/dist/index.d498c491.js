@@ -27245,8 +27245,7 @@ const TodoApp = ()=>{
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "todoData",
                             children: [
-                                "//todolist:",
-                                todos === [] ? "no itemss found" : " no items found",
+                                "Todolist:",
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
                                     children: todos.map((todo)=>{
                                         return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
@@ -27258,14 +27257,14 @@ const TodoApp = ()=>{
                                                             onChange: ()=>ToggleTodo(todo.id)
                                                         }, void 0, false, {
                                                             fileName: "TodoApp.jsx",
-                                                            lineNumber: 68,
+                                                            lineNumber: 67,
                                                             columnNumber: 53
                                                         }, undefined),
                                                         todo.title
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "TodoApp.jsx",
-                                                    lineNumber: 67,
+                                                    lineNumber: 66,
                                                     columnNumber: 49
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -27274,19 +27273,19 @@ const TodoApp = ()=>{
                                                     children: "delete item"
                                                 }, void 0, false, {
                                                     fileName: "TodoApp.jsx",
-                                                    lineNumber: 73,
+                                                    lineNumber: 72,
                                                     columnNumber: 49
                                                 }, undefined)
                                             ]
                                         }, todo.id, true, {
                                             fileName: "TodoApp.jsx",
-                                            lineNumber: 66,
+                                            lineNumber: 65,
                                             columnNumber: 45
                                         }, undefined);
                                     })
                                 }, void 0, false, {
                                     fileName: "TodoApp.jsx",
-                                    lineNumber: 63,
+                                    lineNumber: 62,
                                     columnNumber: 29
                                 }, undefined)
                             ]

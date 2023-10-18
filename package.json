@@ -8,6 +8,7 @@
     "latest": "^0.2.0",
     "loose-envify": "^1.4.0",
     "npm": "^2.15.12",
+    "parcel": "^2.10.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.16.0",

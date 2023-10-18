@@ -58,8 +58,7 @@ import "./index.css";
 
                     <div className={"todoDataContainer"}>
                         <div className={"todoData"}>
-                            //todolist:
-                            {todos === [] ? "no itemss found" : " no items found"}
+                            Todolist:
                             <ul>
                                     {todos.map(todo => {
                                         return (
